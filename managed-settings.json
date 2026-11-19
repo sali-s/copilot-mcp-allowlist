@@ -1,0 +1,5 @@
+{
+  "allowedMcpServers": [
+    { "serverUrl": "https://api.github.com/copilot-connectors/api/v1/connectors/microsoftlearndocsmcpserver/mcp" }
+  ]
+}
